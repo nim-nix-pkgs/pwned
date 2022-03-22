@@ -9,7 +9,7 @@
   
   inputs.src-pwned-master.flake = false;
   inputs.src-pwned-master.owner = "dom96";
-  inputs.src-pwned-master.ref   = "refs/heads/master";
+  inputs.src-pwned-master.ref   = "master";
   inputs.src-pwned-master.repo  = "pwned";
   inputs.src-pwned-master.type  = "github";
   
